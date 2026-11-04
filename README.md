@@ -36,6 +36,18 @@ Each hand shows one digit with one hand.
 
 Open `index.html` in any modern browser.
 
+## How it looks on a laptop
+
+ASLtime fills the whole screen, so it works well as a live wallpaper or a screensaver. These mockups show it on a MacBook and on a Windows laptop (with 10:29 on the clock).
+
+**MacBook**
+
+![ASLtime on a MacBook](docs/mockup-mac.png)
+
+**Windows laptop**
+
+![ASLtime on a Windows laptop](docs/mockup-windows.png)
+
 ## Use it as a wallpaper or screensaver
 
 These are free third-party apps that can show a web page behind your desktop. I have not tested them on every setup, so treat this as a starting point.
