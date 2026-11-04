@@ -38,7 +38,7 @@ Open `index.html` in any modern browser.
 
 ## How it looks on a laptop
 
-ASLtime fills the whole screen, so it works well as a live wallpaper or a screensaver. These mockups show it on a MacBook and on a Windows laptop (with 10:29 on the clock).
+ASLtime fills the whole screen, so it works well as a live wallpaper or a screensaver. These mockups show it on a MacBook and on a Windows laptop (with 10:37 on the clock).
 
 **MacBook**
 

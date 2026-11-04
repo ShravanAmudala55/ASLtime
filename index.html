@@ -4442,7 +4442,7 @@
   var world = new THREE.Group();
   scene.add(world);
   world.scale.setScalar(0.82);
-  var XS = [-2.5, -1.1, 1.1, 2.5];
+  var XS = [-3.0, -1.15, 1.15, 3.0];
   var hands = [];
   var dots = [];
   var glbBuf = b64ToBuf(GLB_B64);
@@ -4483,7 +4483,7 @@
     camera.aspect = w / h;
     camera.updateProjectionMatrix();
     var t = Math.tan(THREE.MathUtils.degToRad(camera.fov) / 2);
-    var dist = Math.max(1.5 / t, 3.7 / (t * camera.aspect));
+    var dist = Math.max(1.5 / t, 4.2 / (t * camera.aspect));
     camDist = dist;
     camera.position.set(0, 0.62, dist);
     camera.lookAt(0, 0.62, 0);
