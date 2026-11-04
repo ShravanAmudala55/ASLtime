@@ -1,6 +1,6 @@
 # ASLtime
 
-A live 3D clock where four robotic hands tell the time in American Sign Language number signs. Two hands show the hours, two show the minutes, and glowing dots sit between them as the colon.
+A live 3D clock where four robotic hands tell the time in **American Sign Language** number signs. Two hands show the hours, two show the minutes, and glowing dots sit between them as the colon.
 
 ![ASLtime preview](preview.png)
 
